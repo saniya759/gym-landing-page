@@ -10,4 +10,4 @@ Responsive landing page built with HTML, CSS and JavaScript.
 - Fully responsive (mobile-friendly)
 
 ## Live Demo
-[Add your GitHub Pages link here after deploying]
+https://saniya759.github.io/gym-landing-page/gym.html
